@@ -1,0 +1,30 @@
+*{
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: blueviolet;
+    height: 90px;
+}
+
+.logo{
+    font-size: 70px;
+    margin-left: 50px;
+}
+
+label b a {
+    color: black;
+}
+
+nav ul{
+    margin-top: 20px;
+    float: right;
+}
+
+nav ul li{
+    display: inline-block;
+}
+
